@@ -44,6 +44,7 @@ CONFIGURE_OPTIONS="--with-apxs2=/usr/bin/apxs2
                    --with-mysql
                    --with-mysqli
                    --with-pdo-mysql
+                   --with-pdo-pgsql
                    --with-mysql-sock=/var/run/mysqld/mysqld.sock
                    --with-readline
                    --enable-apc
